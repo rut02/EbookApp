@@ -1,0 +1,10 @@
+{
+    "bookid": 3,
+    "publication_date": "1391-01-01T00:00:00",
+    "cover_image_url": "cover_image_url_3.jpg",
+    "description": "Detective novel",
+    "title": "Murder on the Orient Express",
+    "author_id": "$authors",
+    "genre_id": "$genres",
+    "story": null
+}
